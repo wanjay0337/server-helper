@@ -1,2 +1,2 @@
 # server-helper
-little web can check your IP table
+little full-html web can check your IP table
